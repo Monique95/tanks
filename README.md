@@ -1,2 +1,2 @@
 # tanks
-Tank game usingh Python
+Tank game using pygame in Python
